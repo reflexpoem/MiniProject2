@@ -5,6 +5,8 @@ import java.util.Arrays;
 /**
  * A class that represents a set of registers for storing BigFraction values. Each register is
  * associated with a letter from 'a' to 'z' and stores a BigFraction.
+ * 
+ * @author Sunjae Kim
  */
 public class BFRegisterSet {
 

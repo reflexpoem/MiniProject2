@@ -3,6 +3,8 @@ package edu.grinnell.csc207.util;
 /**
  * A calculator for operations on fractions using BigFraction. It maintains a running total and
  * supports addition, subtraction, multiplication, and division operations.
+ * 
+ * @author Sunjae Kim
  */
 public class BFCalculator {
 

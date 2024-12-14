@@ -5,6 +5,8 @@ import java.math.BigInteger;
 /**
  * A class representing fractions with arbitrary precision using {@link BigInteger}. This class
  * supports operations such as addition, subtraction, multiplication, and division.
+ * 
+ * @author Sunjae Kim
  */
 public class BigFraction {
 
