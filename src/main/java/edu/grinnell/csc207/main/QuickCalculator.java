@@ -9,6 +9,7 @@ import java.math.BigInteger;
 /**
  * The QuickCalculator class evaluates fractional expressions and executes store commands from the
  * command line. It takes expressions as arguments and evaluates them in sequence.
+ * @author Sunjae Kim
  */
 public class QuickCalculator {
 

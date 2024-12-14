@@ -11,6 +11,7 @@ import java.util.Scanner;
  * The InteractiveCalculator class provides a REPL (Read-Eval-Print Loop) interface to perform
  * calculations with fractions using BigFraction and BFCalculator. It supports addition,
  * subtraction, multiplication, division, and storing values in registers.
+ * @author Sunjae Kim
  */
 public class InteractiveCalculator {
 

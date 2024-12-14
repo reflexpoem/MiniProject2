@@ -1,2 +1,3 @@
-I just added the github link, nothing has been graded last time since 
-it did not have the github link 
+I have changed the S is BFRegisterSet.java, I have no idea why I got that wrong. 
+The grader had changed that for me and graded everything else. The only points I'm missing is my names on each file and properly naming files. 
+That is the only things I need graded for an E. 
